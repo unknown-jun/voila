@@ -1,0 +1,4 @@
+pandas
+plotly
+voila
+ipywidgets==7.5.1
