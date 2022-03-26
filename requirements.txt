@@ -3,3 +3,6 @@ plotly
 voila
 ipywidgets
 jupyter_contrib_nbextensions
+ipympl
+ipython
+jupyter_server
