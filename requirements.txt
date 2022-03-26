@@ -2,5 +2,4 @@ pandas
 plotly
 voila
 ipywidgets
-labextension 
 jupyter_contrib_nbextensions
