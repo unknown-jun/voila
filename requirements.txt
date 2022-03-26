@@ -1,6 +1,6 @@
 pandas
 plotly
 voila
-ipywidgets==7.5.1
+ipywidgets
 labextension 
 jupyter_contrib_nbextensions
