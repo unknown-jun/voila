@@ -7,12 +7,9 @@ ipython
 jupyter_server
 pandas
 
-pandas
 xlrd
 matplotlib
-seaborn
 patsy
-numpy
 psutil
 requests
 networkx
